@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+mglearn
+scikit-learn
+scipy
+seaborn
+graphviz
+ipython
+wordcloud
+pydotplus
+graphviz
+openpyxl
