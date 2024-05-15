@@ -11,3 +11,4 @@ wordcloud
 pydotplus
 graphviz
 openpyxl
+tensorflow
