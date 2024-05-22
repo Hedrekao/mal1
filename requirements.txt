@@ -12,3 +12,4 @@ pydotplus
 graphviz
 openpyxl
 tensorflow
+scikit-image
